@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria 3D Spatial Dynamics & Kinetic Observatory",
+  "description": "An interactive real-time 3D spatial observatory and kinetic atelier featuring dynamic physics, exploded mechanisms, multi-object exhibits, and customizable PBR shaders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
